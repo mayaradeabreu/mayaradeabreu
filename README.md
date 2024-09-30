@@ -6,7 +6,7 @@ meu nome é mayara
 - Estou me desenvolvendo na linguagem JavaScript
 - utilizo o espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
-  ### você pode entra em contato comigo 📫
+  ### você pode entrar em contato comigo 📫
 
   abreu.mayara@escola.pr.gov.br
 
